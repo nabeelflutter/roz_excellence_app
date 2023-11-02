@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15144932025",
+    "project_id": "roseexcellence-d5e87",
+    "storage_bucket": "roseexcellence-d5e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15144932025:android:0d2c14ab85a7f982b5c168",
+        "android_client_info": {
+          "package_name": "com.roseexcellence.rose_excellence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASljnvY9UBQEDOEfPlHnWG2wXM4PD6u3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

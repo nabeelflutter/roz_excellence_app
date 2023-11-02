@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">roze_excellence</string>
+    <string name="facebook_app_id">726488086193001</string>
+    <string name="fb_login_protocol_scheme">fb726488086193001</string>
+    <string name="facebook_client_token">bbb801a505030ee217e77c474602f0fb</string>
+</resources>
